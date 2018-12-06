@@ -6,7 +6,7 @@ A python implementation of a basic k-means clustering algorithm
 3. Choose the center point of each cluster as the new centroid for that cluster
 4. Repeat until convergence
 ## Dependencies
-Python 3.6
-Matplotlib
-Pandas
+Python 3.6  
+Matplotlib  
+Pandas  
 Dataset - 2013 NBA Point Guard Stats (via DataQuest)
